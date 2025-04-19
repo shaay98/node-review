@@ -1,7 +1,5 @@
 "use strict";
 
-
-
 export function peopleShuffle () {
   return ['Alexis', 'Zack', 'Kobe', 'Ray'];
 };
@@ -9,8 +7,3 @@ export function peopleShuffle () {
 export function addition(num1,num2,num3) {
   return[num1 + num2 + num3]
 };
-
-
-
-
-
